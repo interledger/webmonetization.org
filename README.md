@@ -93,28 +93,35 @@ webmonetization.org
     │   ├── css
     │   │   └── custom.css
     │   ├── img
-    │   │   ├── 11ty_webmo_logo.png
-    │   │   ├── angular_webmo_logo.svg
     │   │   ├── awesome_webmo_logo.svg
     │   │   ├── coil_logo.svg
     │   │   ├── copy_icon.svg
     │   │   ├── fav-webmonetization.png
     │   │   ├── favicon.ico
     │   │   ├── gatehub_logo.svg
-    │   │   ├── gatsby_webmo_logo.svg
     │   │   ├── grey_wm_logo.svg
-    │   │   ├── gridsome_webmo_logo.svg
-    │   │   ├── hugo_webmo_logo.svg
-    │   │   ├── infinity_search_logo.svg
-    │   │   ├── puma-logo.svg
-    │   │   ├── runnaroo_logo.svg
+    │   │   ├── icon-arrow-right.svg
+    │   │   ├── icon-merge.svg
+    │   │   ├── infinity_search_logo.svg
+    │   │   ├── logo-browser-chrome.svg
+    │   │   ├── logo-browser-edge.svg
+    │   │   ├── logo-browser-firefox.svg
+    │   │   ├── logo-browser-puma.svg
+    │   │   ├── logo-tool-11ty.svg
+    │   │   ├── logo-tool-angular.svg
+    │   │   ├── logo-tool-gatsby.svg
+    │   │   ├── logo-tool-gridsome.svg
+    │   │   ├── logo-tool-hugo.svg
+    │   │   ├── logo-tool-svelte.svg
+    │   │   ├── logo-tool-tessy.svg
+    │   │   ├── logo-tool-vuepress.png
+    │   │   ├── mojeek_logo.svg
+    │   │   ├── moodle_webmo_logo.png
+    │   │   ├── stronghold_logo.png
     │   │   ├── stronghold_logo.svg
-    │   │   ├── svelte_webmo_logo.svg
-    │   │   ├── tessy_webmo_logo.svg
     │   │   ├── tipbot_logo.svg
     │   │   ├── uphold-logo.svg
     │   │   ├── uphold_logo.svg
-    │   │   ├── vuepress_webmo_logo.png
     │   │   ├── webmon_icon.svg
     │   │   ├── webmon_icon_simple.svg
     │   │   ├── wm-icon-animated.svg
